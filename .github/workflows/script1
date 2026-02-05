@@ -1,0 +1,2 @@
+[Service]
+ExecStartPre=/bin/sh -c "/usr/bin/printf '%%b' '\\033]P0FFC5C4\\033]P7FFFFFF\\033\\\\c'"
